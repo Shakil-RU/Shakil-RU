@@ -11,8 +11,8 @@
 [![Shakil's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shakil-RU&theme=react-dark&hide_border=true&area=true)](https://git.io/Shakil-RU)
 
 <p align=center>
- <img height="140px"  src="https://github-readme-stats.vercel.app/api?username=Zannatul-Naim&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&count_private=true" />
-  <img height="140px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zannatul-Naim&layout=compact&hide_title=true&hide_border=true&theme=tokyonight&count_private=true" />
+ <img height="140px"  src="https://github-readme-stats.vercel.app/api?username=Shakil-RU&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&count_private=true" />
+  <img height="140px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakil-RU&layout=compact&hide_title=true&hide_border=true&theme=tokyonight&count_private=true" />
   </p>
    
 <!--  Metrics Bar -->
