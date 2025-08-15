@@ -3,7 +3,7 @@
 ### 🎓 About me 
   - Final Year Student, Department of [**Computer Science & Engineering at University of Rajshahi**](https://www.ru.ac.bd/), Rajshahi-6205, Bangladesh.
   - Brain Computer Interface (BCI) Researcher.
-  - Currently working on Deep Learning, Machine Learning & Artificial Intelligence.
+  - Currently working on EEG Signal Processing, Deep Learning, Machine Learning & Artificial Intelligence.
   - Problem Solver - Solved 1000+ problems on platforms like Codeforces and Leetcode.
   - Reach me at: **shakilhossan113@gmail.com**.
   <!-- - [View My Resume]() -->
@@ -27,7 +27,26 @@
 
 ### 🌐 Socials:
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakil-hossan-b23bbb256/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/shakil.nirob.56) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]() [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19773149/shakil-hossan) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=I8Y7MUsAAAAJ&gmla=AH8HC4yYdacbq2sSp0SUJjBS2uDJJD8cVVmbCeiHrLBdPfxMJDGnck2i1u75fJQ_XuPgQ3HIBpHX0AdSVWAsAp23NczJo8-OFZaQpC7ihDw&sciund=15326787524171128844) [![ORCID](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0009-0003-7643-5553)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakil-hossan-b23bbb256/) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/YourUsername) 
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YourUsername)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19773149/shakil-hossan) 
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=I8Y7MUsAAAAJ&gmla=AH8HC4yYdacbq2sSp0SUJjBS2uDJJD8cVVmbCeiHrLBdPfxMJDGnck2i1u75fJQ_XuPgQ3HIBpHX0AdSVWAsAp23NczJo8-OFZaQpC7ihDw&sciund=15326787524171128844) 
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0009-0003-7643-5553) 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shakil.nirob.56) -->
+
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00376B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakil-hossan-b23bbb256/) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-FF4500?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/YourUsername) 
+[![Codeforces](https://img.shields.io/badge/Codeforces-0052A0?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YourUsername) 
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19773149/shakil-hossan) 
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-0D47A1?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=I8Y7MUsAAAAJ&gmla=AH8HC4yYdacbq2sSp0SUJjBS2uDJJD8cVVmbCeiHrLBdPfxMJDGnck2i1u75fJQ_XuPgQ3HIBpHX0AdSVWAsAp23NczJo8-OFZaQpC7ihDw&sciund=15326787524171128844) 
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0009-0003-7643-5553) 
+[![Facebook](https://img.shields.io/badge/Facebook-1A237E?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shakil.nirob.56)
+
+
+
 
 <!--  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdhasnainali.01@gmail.com) -->
 
