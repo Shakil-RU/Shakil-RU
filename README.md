@@ -52,11 +52,9 @@
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19773149/shakil-hossan) 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-0D47A1?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=I8Y7MUsAAAAJ&gmla=AH8HC4yYdacbq2sSp0SUJjBS2uDJJD8cVVmbCeiHrLBdPfxMJDGnck2i1u75fJQ_XuPgQ3HIBpHX0AdSVWAsAp23NczJo8-OFZaQpC7ihDw&sciund=15326787524171128844) 
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0009-0003-7643-5553) 
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/YourUsername)
 [![Facebook](https://img.shields.io/badge/Facebook-1A237E?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/shakil.nirob.56)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/YourUsername)
 
-
-<!--  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdhasnainali.01@gmail.com) -->
 
 
 ---
