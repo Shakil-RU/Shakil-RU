@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1001&pause=1000&width=800&lines=%F0%9F%91%8B+Assalamualaikum%2C+I'm+Shakil+Hossan.;)](https://git.io/typing-svg)
 ---
-### About me 
-  - Final Year Student, Department of [Computer Science & Engineering at University of Rajshahi](https://www.ru.ac.bd/), Rajshahi, Bangladesh.
-  - Brain Signal Researcher ( **Published 2 conference papers** on this field and working on another one )
-  - Currently working on Deep Learning, Machine Learning & Artificial Intelligence
-  - Problem Solver ( Solved 1000+ problem on differnt online site like Codeforces, Leetcode )
-  - Reach me at: **shakilhossan113@gmail.com**
-  - [View My Resume]()
+### 🎓 About me 
+  - Final Year Student, Department of [**Computer Science & Engineering at University of Rajshahi**](https://www.ru.ac.bd/), Rajshahi-6205, Bangladesh.
+  - Brain Computer Interface (BCI) Researcher.
+  - Currently working on Deep Learning, Machine Learning & Artificial Intelligence.
+  - Problem Solver - Solved 1000+ problems on platforms like Codeforces and Leetcode.
+  - Reach me at: **shakilhossan113@gmail.com**.
+  <!-- - [View My Resume]() -->
     
 <!--  
 #### Socials
@@ -18,10 +18,10 @@
 -->
 
 ### 📚 Published Papers:
-1. <font size=5> [Data Augmentation Approach to Frequency Recognition of SSVEP Using Mask Encoding Combination Based Deep Learning](https://ucics.org/ucics2025/Data%20Augmentation%20Approach%20to%20Frequency%20Recognition%20of%20SSVEP%20Using%20Mask%20Encoding%20Combination%20Based%20Deep%20Learning)</font>
+1. <font size=5> [**Data Augmentation Approach to Frequency Recognition of SSVEP Using Mask Encoding Combination Based Deep Learning**](https://ucics.org/ucics2025/Data%20Augmentation%20Approach%20to%20Frequency%20Recognition%20of%20SSVEP%20Using%20Mask%20Encoding%20Combination%20Based%20Deep%20Learning)</font>
 
   
-2. <font size=5> [Artifacts Suppression from EEG Signal using Sub-band Thresholding Approach](https://ucics.org/ucics2025/Artifact%20Suppression%20from%20EEG%20Signal%20Using%20Sub-band%20Thresholding%20Approach)</font>
+2. <font size=5> [**Artifacts Suppression from EEG Signal using Sub-band Thresholding Approach**](https://ucics.org/ucics2025/Artifact%20Suppression%20from%20EEG%20Signal%20Using%20Sub-band%20Thresholding%20Approach)</font>
 
 
 
