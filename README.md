@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1001&pause=1000&width=800&lines=%F0%9F%91%8B+Assalamualaikum%2C+I'm+Shakil+Hossan.;)](https://git.io/typing-svg)
 ---
 ### 🎓 About me 
-  - Final Year Student, Department of [**Computer Science & Engineering at University of Rajshahi**](https://www.ru.ac.bd/), Rajshahi-6205, Bangladesh.
+  - B.Sc in CSE, Department of [**Computer Science & Engineering at University of Rajshahi**](https://www.ru.ac.bd/), Rajshahi 6205, Bangladesh.
   - Brain Computer Interface (BCI) Researcher.
   - Currently working on EEG Signal Processing, Deep Learning, Machine Learning & Artificial Intelligence.
   - Problem Solver - Solved 1000+ problems on platforms like Codeforces and Leetcode.
