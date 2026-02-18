@@ -18,10 +18,15 @@
 -->
 
 ### 📚 Published Papers:
-1. <font size=5> [**Data Augmentation Approach to Frequency Recognition of SSVEP Using Mask Encoding Combination Based Deep Learning**](https://ucics.org/ucics2025/Data%20Augmentation%20Approach%20to%20Frequency%20Recognition%20of%20SSVEP%20Using%20Mask%20Encoding%20Combination%20Based%20Deep%20Learning)</font>
+1. <font size=5> [**A Methodological Review of Advances in Deep Learning-Based Methods for SSVEP Classification**](https://ieeexplore.ieee.org/abstract/document/11300173)</font>
+
+
+2. <font size=5> [**Subject Independent Epileptic Seizure Recognition Using 1D-EEGNet Model**](https://www.researchgate.net/publication/400592227_Subject_Independent_Epileptic_Seizure_Recognition_Using_1D-EEGNet_Model)</font>
+
+3. <font size=5> [**Data Augmentation Approach to Frequency Recognition of SSVEP Using Mask Encoding Combination Based Deep Learning**](https://ucics.org/ucics2025/Data%20Augmentation%20Approach%20to%20Frequency%20Recognition%20of%20SSVEP%20Using%20Mask%20Encoding%20Combination%20Based%20Deep%20Learning)</font>
 
   
-2. <font size=5> [**Artifacts Suppression from EEG Signal using Sub-band Thresholding Approach**](https://ucics.org/ucics2025/Artifact%20Suppression%20from%20EEG%20Signal%20Using%20Sub-band%20Thresholding%20Approach)</font>
+4. <font size=5> [**Artifacts Suppression from EEG Signal using Sub-band Thresholding Approach**](https://ucics.org/ucics2025/Artifact%20Suppression%20from%20EEG%20Signal%20Using%20Sub-band%20Thresholding%20Approach)</font>
 
 
 
