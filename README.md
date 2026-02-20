@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1001&pause=1000&width=800&lines=%F0%9F%91%8B+Assalamualaikum%2C+I'm+Shakil+Hossan.;)](https://git.io/typing-svg)
 ---
 ### 🎓 About me 
+  - Lecturer of [**Computer Science & Engineering Department at Varendra University**](https://vu.edu.bd/), Rajshahi Bypass Road, Chandrima, Paba, Rajshahi 6204, Bangladesh.
   - B.Sc. in [**Computer Science & Engineering at University of Rajshahi**](https://www.ru.ac.bd/), Rajshahi 6205, Bangladesh.
   - Brain Computer Interface (BCI) Researcher.
   - Currently working on EEG Signal Processing, Deep Learning, Machine Learning & Artificial Intelligence.
