@@ -31,7 +31,7 @@
 
 
 
-### 🌐 Socials:
+<!-- ### 🌐 Socials: -->
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakil-hossan-b23bbb256/) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/YourUsername) 
@@ -52,14 +52,14 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1A237E?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shakil.nirob.56) -->
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00376B?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakil-hossan-b23bbb256/) 
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-00376B?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakil-hossan-b23bbb256/) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FF4500?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/YourUsername) 
 [![Codeforces](https://img.shields.io/badge/Codeforces-0052A0?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YourUsername) 
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19773149/shakil-hossan) 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-0D47A1?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=I8Y7MUsAAAAJ&gmla=AH8HC4yYdacbq2sSp0SUJjBS2uDJJD8cVVmbCeiHrLBdPfxMJDGnck2i1u75fJQ_XuPgQ3HIBpHX0AdSVWAsAp23NczJo8-OFZaQpC7ihDw&sciund=15326787524171128844) 
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0009-0003-7643-5553) 
 [![Facebook](https://img.shields.io/badge/Facebook-1A237E?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/shakil.nirob.56)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/YourUsername)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/YourUsername) 
 
 
 
@@ -69,5 +69,6 @@
     <img src="https://komarev.com/ghpvc/?username=Shakil-RU&color=blue">
     <img  src="https://img.shields.io/github/followers/Shakil-RU?label=Follow" alt="LinkedIn Badge"/>
     <img src="https://img.shields.io/github/stars/Shakil-RU?affiliations=OWNER%2CCOLLABORATOR" alt="LinkedIn Badge"/>
-</p>
+</p>    -->
+
 
