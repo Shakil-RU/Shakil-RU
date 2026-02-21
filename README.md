@@ -3,7 +3,7 @@
 ### 🎓 About me 
   - Lecturer of [**Computer Science & Engineering Department at Varendra University**](https://vu.edu.bd/), Rajshahi Bypass Road, Chandrima, Paba, Rajshahi 6204, Bangladesh.
   - B.Sc. in [**Computer Science & Engineering at University of Rajshahi**](https://www.ru.ac.bd/), Rajshahi 6205, Bangladesh.
-  - Brain Computer Interface (BCI) Researcher.
+  - Human Computer Interaction (HCI) / Brain Computer Interface (BCI) Researcher.
   - Currently working on EEG Signal Processing, Deep Learning, Machine Learning & Artificial Intelligence.
   - Problem Solver - Solved 1000+ problems on platforms like Codeforces and Leetcode.
   - Reach me at: **shakilhossan113@gmail.com**.
